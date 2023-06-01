@@ -1,2 +1,2 @@
 # CSEC_ASTU
-CSEC_ASTU contest problems solution 
+CSEC_ASTU problems solution 
